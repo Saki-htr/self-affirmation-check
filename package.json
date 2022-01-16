@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/Saki-htr/self-affirmation-check/issues"
   },
-  "homepage": "https://github.com/Saki-htr/self-affirmation-check#readme"
+  "homepage": "https://github.com/Saki-htr/self-affirmation-check#readme",
   "dependencies": {
     "enquirer": "^0.0.2"
   }
