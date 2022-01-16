@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a self-affirmation checklist based on \"中島輝 著  『何があっても「大丈夫。」と思えるようになる 自己肯定感の教科書』\". Please answer 12 questions.",
   "main": "main.js",
+  "bin": { 
+    "self-affirmation-check": "./main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,4 +24,7 @@
     "url": "https://github.com/Saki-htr/self-affirmation-check/issues"
   },
   "homepage": "https://github.com/Saki-htr/self-affirmation-check#readme"
+  "dependencies": {
+    "enquirer": "^0.0.2"
+  }
 }
