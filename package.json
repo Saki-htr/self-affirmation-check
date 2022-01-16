@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/Saki-htr/self-affirmation-check#readme",
   "dependencies": {
-    "enquirer": "^0.0.2"
+    "enquirer": "^2.3.6"
   }
 }
