@@ -11,3 +11,7 @@ npm i -g self-affirmation-check
 ```js
 $ self-affirmation-check
 ```
+or
+```js
+$ npx self-affirmation-check
+```
