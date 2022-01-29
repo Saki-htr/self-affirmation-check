@@ -28,7 +28,7 @@ class Question {
     const yesAnswerAmount = this.amount
     console.log(`\n12個中${yesAnswerAmount}個Yesでした。`)
     if (yesAnswerAmount >= 10) {
-      console.log('今のあなたは自己肯定感が低くなっています。今日は仕事や学習を早めに切り上げましょう')
+      console.log('今のあなたは自己肯定感が低くなっています。今日は仕事や学習を早めに切り上げましょう。')
     } else {
       console.log('今のあなたは自己肯定感が高いです。が、自己肯定感は時と場合によって変動するので、定期的にチェックするようにしましょう。')
     }
